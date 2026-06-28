@@ -1,0 +1,15 @@
+{
+  "name": "ReadyDocs",
+  "short_name": "ReadyDocs",
+  "description": "Document checklists for everyday government and bank tasks in India.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0C0F16",
+  "theme_color": "#15213B",
+  "orientation": "portrait",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" },
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "maskable" }
+  ]
+}
